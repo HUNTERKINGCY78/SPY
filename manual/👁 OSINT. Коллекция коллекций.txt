@@ -1,0 +1,38 @@
+👁 OSINT. Коллекция коллекций. Тысячи инструментов и ресурсов для изучения. Часть 3.
+
+🖖🏻 Приветствую тебя user_name.
+
+•  Это заключительная часть подборок полезных ресурсов, где собраны различные инструменты и материалы для изучения OSINT. В совокупности, данная подборка является огромной коллекцией инструментов и будет полезна социальному инженеру и OSINT специалисту:
+
+PERS/INFRA by Bruno Mortier;
+ (https://start.me/p/nRl9Ya/pers-infra)KYC/Fintech by Bruno Mortier;
+ (https://start.me/p/Om7x8L/kyc-aml-fintech)Nixintel's OSINT Resource List;
+ (https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)Resources of OSINT_Research;
+ (https://start.me/p/rxekAP/osint-research)OSINT Resources by Werewolf;
+ (https://start.me/p/GE7JQb/osint)Search Engines by Technisette;
+ (https://start.me/p/b56G5Q/search-engines)CommanderGirl's Suggestions;
+ (https://start.me/p/1kJKR9/commandergirl-s-suggestions)OSINT toolset by Training Osint;
+ (https://start.me/p/MEw7be/1-osint-toolset)Dark Web by OSINTIA Zoekslag;
+ (https://start.me/p/0PGKad/darkweb)Huge list of resources by NCSO;
+ (https://start.me/p/BnrMKd/01-ncso)Darth Blue Tac Resources (LEO);
+ (https://start.me/p/z4gdmg/leo-online-cheat-sheet)Deep Web by OSINTIA Zoekslag;
+ (https://start.me/p/ydJLqE/deepweb-en-tools)Search Engine by Stefanie Proto;
+ (https://start.me/p/b5ynOQ/sprp77-search-engines)Large collection by CyberSecStu;
+ (https://start.me/p/1kxyw9/v3nari-bookmarks)Links to things by Brian Whelton;
+ (https://start.me/p/kxB4eX/brians-links-to-things)Open source resources by Faros;
+ (https://start.me/p/1kvvxN/faros-osint-resources)Search Tools by OSINTIA Zoekslag;
+ (https://start.me/p/L1YnjG/search-tools)OSINT Global (Non-US) by Sighlent;
+ (https://start.me/p/jj2XEr/osint-global-non-us)Resources of Adze the OSINT Helper;
+ (https://start.me/p/3y5nEE/adze-the-osint-helper)Add ons and Tools by Dean Da Costa;
+ (https://start.me/p/jjLykn/addons-tools-ext-utopia)Research Resources by Howard Baker;
+ (https://start.me/p/RMkDeq/research-resources)OSINT Resources of Sussex Intelligence;
+ (https://start.me/p/2pMv6d/international-security-research)Ultime OSINT Collection bt Hatless1der;
+ (https://start.me/p/DPYPMz/the-ultimate-osint-collection)Collection of OSINT tools by Justin Cook;
+ (https://start.me/p/8yx1o0/main-tools)Dating Resources by Emmanuelle Welch;
+ (https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)Dark Web and Russia by CommanderGirl;
+ (https://start.me/p/kx5qL5/osint-darkweb-russia)Various tools/Keywords by Bruno Mortier;
+ (https://start.me/p/VvGz56/keywords)Custom Search Engines by Dean Da Costa;
+ (https://start.me/p/EL84Km/cse-utopia)Advanced Python & Linux by Cyber Training;
+ (https://start.me/p/9E2mea/python-linux-tools)Cryptocurrency investigations by Intel0logist;
+ (https://start.me/p/X2aKzB/cryptocurrency-investigations)Online Extremism/Terrorism by Lorand Bodo;
+ (https://start.me/p/DPNyrl/online-extremism-terrorism)OSINT Canada resources by OSINT Techniques;
